@@ -5,3 +5,5 @@ def init() -> None:
 
 if __name__ == "__main__":
     init()
+    
+# this can stay the same this is good convention
